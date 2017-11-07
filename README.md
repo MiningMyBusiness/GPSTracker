@@ -1,5 +1,5 @@
 # GPS Tracker
-Collection, visualization and analysis of GPS data gathered with a homemade GPS module.
+Collection, visualization, and analysis of GPS data gathered with a homemade GPS module.
 
 ## Motivation
 The concept of connectivity recives a lot of attention from a wide variety of fields. While we tend to reserve the main discussions about connectivity to the digital realm, I find myself drawn to the concept of connectivity in the physical world. Where we travel everyday and how we get there directly influences what we are exposed to and what is exposed to us. This has direct consequences for everything from disease epidemics to advertising.  
