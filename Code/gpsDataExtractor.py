@@ -1,3 +1,10 @@
+# GPS data extractor and visualizer
+# Extracts GPS data from a saved text file collected with homemade GPS tracking
+#   module
+# Author: Kiran Bhattacharyya (bhattacharyyakiran12@gmail.com)
+# License: MIT License
+
+
 ##############################
 ### Get data from gps file ###
 # open gps data file
