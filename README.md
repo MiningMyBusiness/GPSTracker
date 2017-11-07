@@ -28,7 +28,7 @@ $GPGSV,1,1,04,08,68,076,33,16,13,068,35,27,34,047,23,33,04,102,33*70 <br />
 $GPG076,33,16,13,068,34,27,34,047,23,33,04,102,32*70 <br />
 $GPGLL,4200.31735,N,08739.74210,W,070755.00,A,A*7B <br />
 
-The [GPS Module](https://playground.arduino.cc/Tutorials/GPS) webpage on the Arduino page is a great place to start understanding what all this means. But I'll give you the crash course version. The line starting with $GPRMC is the most important line.  
+You can look at the [GPS Module](https://playground.arduino.cc/Tutorials/GPS) webpage on the Arduino site to understand what all this means but I'll give you the crash course. The line starting with $GPRMC is the most important line.  
 
 
 
