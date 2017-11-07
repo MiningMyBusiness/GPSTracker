@@ -2,7 +2,7 @@
 Collection, visualization, and analysis of GPS data gathered with a homemade GPS module.
 
 ## Motivation
-The concept of connectivity recives a lot of attention from a wide variety of fields. While we tend to reserve the main discussions about connectivity to the digital realm, I find myself drawn to the concept of connectivity in the physical world. Where we travel everyday and how we get there directly influences what we are exposed to and what is exposed to us. This has direct consequences for everything from disease epidemics to advertising.  
+The concept of connectivity recives a lot of attention from a wide variety of fields. While we tend to reserve the main discussions about connectivity to the digital realm, I find myself drawn to the concept of connectivity in the physical world. Where we travel everyday and how we get there directly influences what we are exposed to and what is exposed to us. This has consequences for everything from disease epidemics to advertising.  
 
 I wanted to know how connected (or disconnected) I was to the rest of Chicago, the city where I live. I decided to measure this by tracking everywhere I go every day. I hope that this will give me an idea about how I move and where I go in this city, this country, and this world. Moreover, it will be a direct record of everywhere I have gone. I want to extract from this data the balance between my walking and using vehicular transport, my carbon footprint, and the geographical web in which I live my life. 
 
