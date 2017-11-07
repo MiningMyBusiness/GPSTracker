@@ -7,7 +7,7 @@ The concept of connectivity recives a lot of attention from a wide variety of fi
 I wanted to know how connected (or disconnected) I was to the rest of Chicago, the city where I live. I decided to measure this by tracking everywhere I go every day. I hope that this will give me an idea about how I move and where I go in this city, this country, and this world. Moreover, it will be a direct record of everywhere I have gone. I want to extract from this data the balance between my walking and using vehicular transport, my carbon footprint, and the geographical web in which I live my life. 
 
 ## Hardware
-The homemade GPS module consisting of Arduino Nano, an SD card module, an SD card, a passive ceramic GPS module, a 3.7V to 5V boost converter, and a LiPo battery. A schematic is shown below but more detail can be found in the [Hardware](https://github.com/MiningMyBusiness/GPSTracker/raw/master/Hardware) folder of the repository.
+The homemade GPS module consists of Arduino Nano, an SD card module, an SD card, a passive ceramic GPS module, a 3.7V to 5V boost converter, and a LiPo battery. A schematic is shown below but more detail can be found in the [Hardware](https://github.com/MiningMyBusiness/GPSTracker/raw/master/Hardware) folder of the repository.
 
 <img src="https://github.com/MiningMyBusiness/GPSTracker/raw/master/Hardware/GPSSchematic_bb.png" width="500">
 
