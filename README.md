@@ -13,7 +13,7 @@ The homemade GPS module consisting of Arduino Nano, an SD card module, an SD car
 
 I chose to make a homemade GPS over using the GPS in my smart phone. The cons of doing this include having to build and carry another piece of hardware. The pros include not having to worry about data plans, about your cell phone battery dying, and the opportunity to learn something new. Additionally, since this homemade GPS module doesn't rely on cellular phone networks, it can track me anywhere in the world including in the middle of an ocean or a desert (assuming I go there). 
 
-The code used to program the Arduino can be found in the [Code](https://github.com/MiningMyBusiness/GPSTracker/raw/master/Code) folder of this repository. I implemented the beta version of this hardware in a carboard Sparkfun box shown below. This was adequately portable to collect pilot data. 
+The code used to program the Arduino can be found in the [Code](https://github.com/MiningMyBusiness/GPSTracker/raw/master/Code) folder of this repository. I implemented the beta version of this hardware in a carboard Sparkfun box shown below (the mouse is in the image for comparison). This was adequately portable to collect pilot data. 
 
 <img src="https://github.com/MiningMyBusiness/GPSTracker/raw/master/Hardware/boxOpen.JPG" width="500">
 
