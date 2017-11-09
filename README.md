@@ -39,7 +39,7 @@ W --- Western hemisphere <br />
 0.980 --- Speed in knots <br />
 251017 --- 25/10/2017 date of readout <br />
 
-There is a [Python script](https://github.com/MiningMyBusiness/GPSTracker/raw/master/Code/gpsDataExtractor.py) in the [Code](https://github.com/MiningMyBusiness/GPSTracker/raw/master/Code) folder of the repository that parses through this data and organizes the date, time, latitude and longitude into lists. Then plots this data onto a Google roadmap and saves to an [html file](http://htmlpreview.github.com/?https://github.com/MiningMyBusiness/GPSTracker/raw/master/Results/mymap.html) with zoom functionality. There is a screenshot of the map below. 
+There is a [Python script](https://github.com/MiningMyBusiness/GPSTracker/raw/master/Code/gpsDataExtractor.py) in the [Code](https://github.com/MiningMyBusiness/GPSTracker/raw/master/Code) folder of the repository that parses through this data and organizes the date, time, latitude and longitude into lists. Then plots this data onto a Google roadmap and saves to an [html file](http://htmlpreview.github.io/?https://github.com/MiningMyBusiness/GPSTracker/raw/master/Results/mymap.html) with zoom functionality. There is a screenshot of the map below. 
 
 <img src="https://github.com/MiningMyBusiness/GPSTracker/raw/master/Results/mapImg.png" width="500">
 
