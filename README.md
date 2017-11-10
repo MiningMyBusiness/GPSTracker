@@ -32,3 +32,6 @@ Please take a look at the [Code](https://github.com/MiningMyBusiness/GPSTracker/
 
 <img src="https://github.com/MiningMyBusiness/GPSTracker/raw/master/Results/mapImg.png" width="500">
 
+## Work in progress
+The next steps involve breaking this data into trips taken by day. Then using the speed of movement I can determine if I was walking or on vehicular transport. Potentially, by using locations where data is collected I can also determine if I was using the L-train. 
+
