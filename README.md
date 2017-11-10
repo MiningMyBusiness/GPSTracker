@@ -28,18 +28,7 @@ $GPGSV,1,1,04,08,68,076,33,16,13,068,35,27,34,047,23,33,04,102,33*70 <br />
 $GPG076,33,16,13,068,34,27,34,047,23,33,04,102,32*70 <br />
 $GPGLL,4200.31735,N,08739.74210,W,070755.00,A,A*7B <br />
 
-You can look at the [GPS Module](https://playground.arduino.cc/Tutorials/GPS) webpage on the Arduino site to understand what all this means but I'll give you the crash course. The line starting with $GPRMC is the most important line (first line). It needs to be broken at the commas to decode the information. 
-
-070750.00 --- 07:07:50.00 UTC (coordinated universal time) <br />
-A --- Active <br />
-4200.31462 --- 42 degrees and 00.31462 minutes Latitude <br />
-N --- Northern hemisphere <br />
-08739.74022 --- 87 degrees and 39.74022 minutes Longitude <br />
-W --- Western hemisphere <br />
-0.980 --- Speed in knots <br />
-251017 --- 25/10/2017 date of readout <br />
-
-There is a [Python script](https://github.com/MiningMyBusiness/GPSTracker/raw/master/Code/gpsDataExtractor.py) in the [Code](https://github.com/MiningMyBusiness/GPSTracker/raw/master/Code) folder of the repository that parses through this data and organizes the date, time, latitude and longitude into lists. Then plots this data onto a Google roadmap and saves to an [html file](https://rawgit.com/MiningMyBusiness/GPSTracker/master/Results/mymap.html) with zoom functionality. Open the html file to explore the dataset but I've also provided a static screenshot of the map below. 
+Please take a look at the [Code](https://github.com/MiningMyBusiness/GPSTracker/raw/master/Code) in the repo to see how to make sense of this data. There is a [Python script](https://github.com/MiningMyBusiness/GPSTracker/raw/master/Code/gpsDataExtractor.py) in the [Code](https://github.com/MiningMyBusiness/GPSTracker/raw/master/Code) folder of the repository that parses through this data and organizes the date, time, latitude and longitude into lists. Then plots this data onto a Google roadmap and saves to an [html file](https://rawgit.com/MiningMyBusiness/GPSTracker/master/Results/mymap.html) with zoom functionality. Open the html file to explore the dataset but I've also provided a static screenshot of the map below. 
 
 <img src="https://github.com/MiningMyBusiness/GPSTracker/raw/master/Results/mapImg.png" width="500">
 
