@@ -26,6 +26,20 @@ I used a different 3.7V to 5V boost converter than the one shown in the schemati
 
 IMPORTANT NOTE: Do not have the GPS module powered and connected to the RX pin of the Arduino when uploading code onto the Arduino. This will interfere with uploading code onto the Arduino. Power the GPS module after the code has been uploaded onto the Arduino. 
 
+### Initial prototype
+I've attached some images which show the prototype I made to collect some pilot data and test feasibility of this project. The computer mouse in the image provides a size comparison with the prototype. 
+
+1. Prototype innards
+<img src="https://github.com/MiningMyBusiness/GPSTracker/raw/master/Hardware/boxOpen.JPG" width="500">
+
+2. Top view
+<img src="https://github.com/MiningMyBusiness/GPSTracker/raw/master/Hardware/boxTop.JPG" width="500">
+
+3. Side view
+<img src="https://github.com/MiningMyBusiness/GPSTracker/raw/master/Hardware/boxSide.JPG" width="500">
+
+I plan to miniaturize this further and solder components onto a smaller board.
+
 ### Tips for hardware replication
 I would HIGHLY recommend building this project in pieces and troubleshooting along the way. These are some webpages I found to be very useful. 
 
