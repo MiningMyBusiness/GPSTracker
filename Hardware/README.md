@@ -26,10 +26,10 @@ I used a different 3.7V to 5V boost converter than the one shown in the schemati
 
 IMPORTANT NOTE: Do not have the GPS module powered and connected to the RX pin of the Arduino when uploading code onto the Arduino. This will interfere with uploading code onto the Arduino. Power the GPS module after the code has been uploaded onto the Arduino. 
 
-### Initial prototype
+### Initial pilot version
 I've attached some images which show the prototype I made to collect some pilot data and test feasibility of this project. The computer mouse in the image provides a size comparison with the prototype. 
 
-1. Prototype innards
+1. Innards
 <img src="https://github.com/MiningMyBusiness/GPSTracker/raw/master/Hardware/boxOpen.JPG" width="500">
 
 2. Top view
@@ -38,7 +38,23 @@ I've attached some images which show the prototype I made to collect some pilot 
 3. Side view
 <img src="https://github.com/MiningMyBusiness/GPSTracker/raw/master/Hardware/boxSide.JPG" width="500">
 
-I plan to miniaturize this further and solder components onto a smaller board.
+### Prototype version
+I miniaturized this further and soldered components onto a smaller board. This was then inserted into a project box 3D printed with an Ultimaker 3. Again use the mouse for size comparison. This is much smaller than the pilot verison. 
+
+1. Box model 
+<img src="https://github.com/MiningMyBusiness/GPSTracker/raw/master/Hardware/GPSBox3DModel.jpg" width="500">
+
+2. Closed top 
+<img src="https://github.com/MiningMyBusiness/GPSTracker/raw/master/Hardware/Mini_ClosedTop.JPG" width="500">
+
+3. Open top
+<img src="https://github.com/MiningMyBusiness/GPSTracker/raw/master/Hardware/Mini_OpenTop1.JPG" width="500">
+
+<img src="https://github.com/MiningMyBusiness/GPSTracker/raw/master/Hardware/Mini_OpenTop2.JPG" width="500">
+
+4. Taken apart 
+<img src="https://github.com/MiningMyBusiness/GPSTracker/raw/master/Hardware/Mini_Out.JPG" width="500">
+
 
 ### Tips for hardware replication
 I would HIGHLY recommend building this project in pieces and troubleshooting along the way. These are some webpages I found to be very useful. 
