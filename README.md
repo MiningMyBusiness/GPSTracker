@@ -19,9 +19,9 @@ I implemented the beta version of this hardware in a carboard Sparkfun box shown
 <img src="https://github.com/MiningMyBusiness/GPSTracker/raw/master/Hardware/boxOpen.JPG" width="500">
 
 ### Prototype hardware
-I also made a much smaller version which I took with me when I travelled out of the country. 
+I also made a much smaller version which I took with me when I travelled out of the country. The battery is blocking the view to the remainder of the parts.
 
-<img src="https://github.com/MiningMyBusiness/GPSTracker/raw/master/Hardware/Mini_OpenTop2.JPG" width="500">
+<img src="https://github.com/MiningMyBusiness/GPSTracker/raw/master/Hardware/Mini_OpenTop1.JPG" width="500">
 
 More pictures of the smaller version and the .stl files for the 3D model of the box are provided in the [Hardware](https://github.com/MiningMyBusiness/GPSTracker/raw/master/Hardware) folder of the repository. This was tested on mountain roads between Bogota, Chaochi, and Ubaque in Colombia. These roads often do not have very dependable cell or data service. However, the main towns are well connected. 
 
