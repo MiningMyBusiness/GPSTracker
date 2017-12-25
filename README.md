@@ -43,6 +43,12 @@ I collected some data with the pilot hardware around Chicago as I went to work o
 
 <img src="https://github.com/MiningMyBusiness/GPSTracker/raw/master/Results/mapImg.png" width="500">
 
+### Data collected with prototype 
+I took the smaller prototype in the blue box with me on my trip to Bogota, Colombia. I've provided a static screenshot of the map below from my trip to Colombia. Note that it is able to track in the middle of the mountains where there is poor cell/data service. 
+
+<img src="https://github.com/MiningMyBusiness/GPSTracker/raw/master/Results/mapImg_colombia.png" width="500">
+
+
 ## Work in progress
 The next steps involve breaking this data into trips taken by day. Then using the speed of movement I can determine if I was walking or on vehicular transport. Potentially, by using locations where data is collected I can also determine if I was using the L-train. 
 
